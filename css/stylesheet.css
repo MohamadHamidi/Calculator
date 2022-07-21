@@ -1,0 +1,36 @@
+body{
+    background-color: rgb(200, 200, 200);
+}
+#calculator{
+    width: 417px;
+    height: 300px;
+    margin: auto;
+    margin-top: 150px;
+    border: black solid;
+}
+#display{
+    width: 97.5%;
+    height: 47px;
+    background-color: white;
+    border: solid black;
+    border-width: 1px;
+    font-size: 16pt;
+    line-height: 35px;
+    padding-left: 10px;
+}
+.btn{
+    background-color: rgb(224, 224, 224);
+    width: 100px;
+    height: 40px;
+    text-align: center;
+    border: solid black;
+    border-width: 1px;
+    font-weight:550;
+}
+.opr{
+    background-color: rgb(180, 180, 180);
+}
+.spbtn{
+    background-color: rgb(180, 180, 180);
+}
+.btn:hover{background-color: rgb(165, 165, 165);}
